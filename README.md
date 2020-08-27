@@ -18,3 +18,5 @@ In addition, you can add news using ```Create news``` link:
 ![hyper_create](https://user-images.githubusercontent.com/37106831/90333771-1e6f7000-dfd1-11ea-8eea-d02b27c237b7.jpg)
 
 Created news are added to the ```news.json```file too.
+
+This project is my solution to [the project](https://hyperskill.org/projects/102?track=2) which is a part of the Python Developer Track in JetBrains Academy. Writing from and reading to the JSON file is a requirement in the project.
